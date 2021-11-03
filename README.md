@@ -3,7 +3,6 @@
 
 插件实现了获取指定地区和指定类型的POI来生成shp文件，并将其作为图层添加到QGIS中的功能。
 
-<img src="https://raw.githubusercontent.com/NA-Ding/QGIS_Plugin/main/images/Plugin_GUI.png" style="zoom:80%;" />
+![插件界面](https://github.com/NA-Ding/QGIS_Plugin/blob/main/images/Plugin_GUI.png)
 
-<img src="https://raw.githubusercontent.com/NA-Ding/QGIS_Plugin/main/images/Computational_results.png" style="zoom:60%;" />
-
+![运行结果](https://github.com/NA-Ding/QGIS_Plugin/blob/main/images/Computational_results.png)
